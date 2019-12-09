@@ -1,4 +1,4 @@
-# sre-take-home-sample-app
+# sre-sample-app
 
 To build and run the application:
 ```
